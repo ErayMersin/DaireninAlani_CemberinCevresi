@@ -1,0 +1,4 @@
+﻿  Kaynak.c
+C:\Users\eray\source\repos\Daire Alani ve Çemberin Çevresi\Daire Alani ve Çemberin Çevresi\Kaynak.c(25,15): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\eray\source\repos\Daire Alani ve Çemberin Çevresi\Daire Alani ve Çemberin Çevresi\Kaynak.c(29,18): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Daire Alani ve Çemberin Çevresi.vcxproj -> C:\Users\eray\source\repos\Daire Alani ve Çemberin Çevresi\x64\Debug\Daire Alani ve Çemberin Çevresi.exe
